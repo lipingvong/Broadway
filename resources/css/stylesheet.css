@@ -19,6 +19,13 @@ p ul {
   color: white;
 }
 
-#about {
-  color: #Gray;
+#about h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+#about h3 {
+  font-size: 23px;
+  font-weight: bold;
 }
