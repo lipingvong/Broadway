@@ -14,9 +14,11 @@ h1 {
   color: white;
 }
 
-p ul {
+ul {
   font-size: 18px;
+  line-height: 1.75;
   color: white;
+  list-style: none;
 }
 
 #about h2 {
@@ -36,4 +38,5 @@ p {
 
 #designed-in-new-york {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;
 }
